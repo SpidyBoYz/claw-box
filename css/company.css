@@ -62,7 +62,7 @@ nav>.links {
     position: fixed;
     width: 85%;
     left: 7.5%;
-    top: 9%;
+    top: 10%;
     height: auto;
     display: none;
     flex-direction: column;
@@ -273,7 +273,7 @@ nav>.links {
         width: 80%;
         margin: auto;
         margin-top: 50px;
-        gap:30px;
+        gap:20px;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -288,10 +288,13 @@ nav>.links {
         font-size: 20px;
         line-height: 30px;
         background-color: rgba(0,0,0,0.7);
-        padding: 40px 30px ;
+        padding: 25px ;
     }
     .footer .social-media{
         position: absolute;
-        top: -100%;
+        top: -45%;
+    }
+    .footer .fa-brands{
+        font-size: 21px;
     }
 }
