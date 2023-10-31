@@ -249,10 +249,12 @@ nav>.links {
     }
     .header-content .bold-cont{
         font-size: 35px;
+        margin-bottom: 40px;
         line-height: 60px;
     }
     .header-content .small-cont{
         font-size: 20px;
+        margin-bottom: 40px;
     }
     .head-btn button{
         font-size: 20px;
