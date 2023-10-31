@@ -255,7 +255,7 @@ nav>.links {
         display: block;
         background-color: transparent;
         position: absolute;
-        bottom: 30px;
+        bottom: 5px;
         left: 50%;
         transform: translateX(-50%);
     }
@@ -263,7 +263,7 @@ nav>.links {
         display: none;
     }
     .footer .fa-brands{
-        font-size: 30px;
+        font-size: 25px;
     }
     .footer .copyrights{
         text-align: center;
@@ -272,7 +272,7 @@ nav>.links {
     .about-content{
         width: 80%;
         margin: auto;
-        margin-top: 50px;
+        margin-top: 30px;
         gap:20px;
         display: flex;
         flex-direction: column;
@@ -292,9 +292,6 @@ nav>.links {
     }
     .footer .social-media{
         position: absolute;
-        top: -45%;
-    }
-    .footer .fa-brands{
-        font-size: 21px;
+        top: -50%;
     }
 }
