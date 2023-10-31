@@ -245,7 +245,7 @@ nav>.links {
     }
     .header-content{
         position: absolute;
-        top:20%;
+        top:15%;
     }
     .header-content .bold-cont{
         font-size: 35px;
@@ -255,8 +255,7 @@ nav>.links {
         font-size: 20px;
     }
     .head-btn button{
-        margin-top: 10px;
-        font-size: 25px;
+        font-size: 20px;
         padding: 17px 20px;
     }
     .head-btn button:hover{
@@ -266,7 +265,7 @@ nav>.links {
         display: block;
         background-color: transparent;
         position: absolute;
-        bottom: 10px;
+        bottom: 5px;
         left: 50%;
         transform: translateX(-50%);
     }
@@ -275,7 +274,7 @@ nav>.links {
     }
     .footer .social-media{
         position: absolute;
-        top: -120%;
+        top: -100%;
         left: -20px;
     }
     .footer .fa-brands{
